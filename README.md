@@ -71,7 +71,7 @@ Recommendations for improvement include developing better irrigation infrastruct
 
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/crop-production-analysis.git
+   git clone https://github.com/SwarnasishBanerjee2906/Crop-Production-Analysis-of-India/crop-production-analysis.git
    ```
 2. Open the `Crop_Production_of_India.pbix` file in Power BI Desktop to explore the dashboards.
 3. Review the `Crop_Production_Analysis_Report.docx` for a detailed written analysis and insights.
